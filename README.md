@@ -7,8 +7,8 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 ## Reviews
 
-1. Nguyen Bach, Sameer Badaskar. **A review of relation extraction**. [[paper]](https://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction.pdf)
-1. Shantanu Kumar. 2017. **A survey of deep learning methods for relation extraction**. [[paper]](https://arxiv.org/pdf/1705.03645.pdf)
+1. [] Nguyen Bach, Sameer Badaskar. **A review of relation extraction**. [[paper]](https://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction.pdf)
+1. [x] Shantanu Kumar. 2017. **A survey of deep learning methods for relation extraction**. [[paper]](https://arxiv.org/pdf/1705.03645.pdf)
 1. Sachin Pawar, Girish K. Palshikara, Pushpak Bhattacharyyab. 2017. **Relation extraction: a survey**. [[paper]](https://arxiv.org/pdf/1712.05191.pdf)
 
 ## Datasets
